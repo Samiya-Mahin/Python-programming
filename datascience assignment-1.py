@@ -40,7 +40,6 @@ print(x)
 # In[49]:
 
 
-import math
 PI = 3.14;
 r = float(input("Enter the value of radius: "))
 Area = PI*r**2;
